@@ -1,4 +1,4 @@
-# pocker
+# poker
 Poetry + Docker
 ---
 ### how to run
